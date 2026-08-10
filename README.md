@@ -5,6 +5,11 @@ Making Subaru tuning software work on Linux. currently focused on CachyOS since 
 Working setups include fully functional **RomRaider Editor**, **RomRaider Logger**, and
 **EcuFlash**. **EvoScan** support is currently in development.
 
+The DimeMod version of RomRaider Editor and Logger are used.
+EcuFlash with an authentic Tactrix OpenPort 2.0.
+EvoScan project ongoing...
+
+
 ## Current project
 
 - [Subaru ECU Tools for Linux](https://github.com/Natzirt-BK/subaru-ecu-tools-linux) — an experimental OpenPort 2.0 Wine bridge for EcuFlash, plus portable RomRaider editor and logger launch helpers.
