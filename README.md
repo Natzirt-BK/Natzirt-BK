@@ -1,7 +1,7 @@
 # Natzirt-BK
 
-Automotive diagnostics, open-source ECU tooling, and practical Linux support
-for enthusiast tuning software.
+Open-source tools and practical Linux support for tuning Subaru vehicles,
+including ECU diagnostics, ROM editing, and datalogging workflows.
 
 ## Current project
 
