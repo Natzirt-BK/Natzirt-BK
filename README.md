@@ -1,21 +1,22 @@
-# NatZirt BK
+# RomRaider2 | Public Access Temporarily Closed
 
-Independent community software for Subaru and Mitsubishi ECU editing, diagnostics,
-logging, and Linux compatibility.
+Due to the overwhelming amount of negative feedback, harassment, and threats our development team has received, we have made the decision to temporarily close all public access to RomRaider2.
 
-## Projects
+RR2 has been a project built through countless hours of development, testing, and dedication by people who genuinely care about bringing something new to the Subaru, Mitsubishi, and Nissan tuning communities.
 
-| Project | Purpose | Current status |
-| --- | --- | --- |
-| [RomRaider2 downloads](https://github.com/Natzirt-BK/RomRaider2-Releases/releases) | Desktop and Android ROM editing, vehicle logging and datalog review | Public **1.1.12 RC1** testing builds; 1.1.13 remains in private development |
-| [ECU Tools for Linux](https://github.com/Natzirt-BK/subaru-ecu-tools-linux) | EcuFlash and DimeMod installation, OpenPort 2.0 compatibility, plus a pinned RomRaider2 package | Linux installer currently targets RomRaider2 **1.1.12** |
-| [SubaruDefs](https://github.com/Natzirt-BK/SubaruDefs) | Subaru ECU calibration definitions | Historical Stable and Alpha branches plus experimental A2WC412I work |
+We welcome constructive criticism and feedback, but personal attacks and threats directed toward our team are unacceptable.
 
-RomRaider2 is under active development. Linux is the primary qualification
-platform; Windows and Android are also development targets. macOS work is
-deferred. The private RomRaider2 source repository is not a public download
-location. Release candidates and their corresponding source archives are
-available from the public downloads link above.
+Development will continue privately while we reassess the future of public releases.
+
+We appreciate everyone who has supported the project and treated our team with respect.
+
+**The RomRaider2 Development Team**
+
+---
+
+## Other projects
+
+SubaruDefs and ECU Tools for Linux are separate projects. Their availability is unchanged.
 
 ## Compatibility and safety
 
