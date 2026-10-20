@@ -2,7 +2,7 @@
 
 Due to the overwhelming amount of negative feedback, harassment, and threats our development team has received, we have made the decision to temporarily close all public access to RomRaider2.
 
-RR2 has been a project built through countless hours of development, testing, and dedication by people who genuinely care about bringing something new to the Subaru, Mitsubishi, and Nissan tuning communities.
+RomRaider2 is an independent project developed by two brothers who share a passion for automotive tuning and software development. We've dedicated countless hours to building, improving, and testing RR2 for the Subaru, Mitsubishi, and Nissan tuning communities. We're not a large company or a funded development studio. We're simply two brothers working together to create something worthwhile for the community.
 
 We welcome constructive criticism and feedback, but personal attacks and threats directed toward our team are unacceptable.
 
