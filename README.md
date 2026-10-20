@@ -1,27 +1,27 @@
-# NatZirt BK
+# RomRaider2 | Public Access Closed Temporarily
 
-Independent community software for Subaru and Mitsubishi ECU editing, diagnostics,
-logging, and Linux compatibility.
+Due to the overwhelming amount of uninformed and often hostile criticism, personal harassment, and threats directed toward our two-person development team, we have made the difficult decision to temporarily close public access to RomRaider2.
 
-## Projects
+RomRaider2 is an independent project developed by two brothers with a shared passion for automotive tuning and software development. One of us works professionally as a software engineer, bringing industry experience to the project. Together, we've dedicated countless hours to developing, testing, and improving RR2 for the Subaru, Mitsubishi, and Nissan tuning communities. We're not a large company or a funded development studio. We're simply two brothers working together to build something worthwhile for the community.
 
-| Project | Purpose | Current status |
-| --- | --- | --- |
-| [RomRaider2 downloads](https://github.com/Natzirt-BK/RomRaider2-Releases/releases) | Desktop and Android ROM editing, vehicle logging and datalog review | Public **1.1.12 RC1** testing builds; 1.1.13 remains in private development |
-| [ECU Tools for Linux](https://github.com/Natzirt-BK/subaru-ecu-tools-linux) | EcuFlash and DimeMod installation, OpenPort 2.0 compatibility, plus a pinned RomRaider2 package | Linux installer currently targets RomRaider2 **1.1.12** |
-| [SubaruDefs](https://github.com/Natzirt-BK/SubaruDefs) | Subaru ECU calibration definitions | Historical Stable and Alpha branches plus experimental A2WC412I work |
+We welcome constructive criticism and legitimate technical feedback. However, criticism based on misinformation, personal attacks, and threats has no place in a community built around shared interests and innovation.
 
-RomRaider2 is under active development. Linux is the primary qualification
-platform; Windows and Android are also development targets. macOS work is
-deferred. The private RomRaider2 source repository is not a public download
-location. Release candidates and their corresponding source archives are
-available from the public downloads link above.
+Development will continue privately while we reassess the future of public releases.
+
+We appreciate everyone who has supported the project and treated our team with respect.
+
+**The RomRaider2 Development Team**
+
+---
+
+## Other projects
+
+SubaruDefs and ECU Tools for Linux are separate projects. Their availability is unchanged.
 
 ## Compatibility and safety
 
-RomRaider2 does **not** currently provide production ECU flashing or live
-tuning. EcuFlash is a separate program in the Linux tools setup; it is not
-a RomRaider2 flashing feature. Vehicle compatibility must be verified for
+RomRaider2 does **not** currently provide **public** production ECU flashing or live
+tuning. Vehicle compatibility must be verified for
 the exact ECU, adapter, driver, definition, and operation. Keep original ROM
 backups and do not treat software-only tests as proof of safe physical writes.
 
