@@ -20,9 +20,8 @@ SubaruDefs and ECU Tools for Linux are separate projects. Their availability is 
 
 ## Compatibility and safety
 
-RomRaider2 does **not** currently provide production ECU flashing or live
-tuning. EcuFlash is a separate program in the Linux tools setup; it is not
-a RomRaider2 flashing feature. Vehicle compatibility must be verified for
+RomRaider2 does **not** currently provide **public** production ECU flashing or live
+tuning. Vehicle compatibility must be verified for
 the exact ECU, adapter, driver, definition, and operation. Keep original ROM
 backups and do not treat software-only tests as proof of safe physical writes.
 
