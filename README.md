@@ -1,4 +1,4 @@
-# RomRaider2 | Public Access Temporarily Closed
+# RomRaider2 | Public Access Closed Temporarily
 
 Due to the overwhelming amount of uninformed and often hostile criticism, personal harassment, and threats directed toward our two-person development team, we have made the difficult decision to temporarily close public access to RomRaider2.
 
