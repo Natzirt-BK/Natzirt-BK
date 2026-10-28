@@ -1,4 +1,4 @@
-# RomRaider2 | Public Access Closed Temporarily
+# Revolt RR2| Public Access Closed Temporarily
 Coming soon
 
 ---
